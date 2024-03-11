@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rolyda/react-for-beginners/static/js/main.9f70b8e4.js",
-    "index.html": "/rolyda/react-for-beginners/index.html",
-    "main.9f70b8e4.js.map": "/rolyda/react-for-beginners/static/js/main.9f70b8e4.js.map"
+    "main.js": "/react-for-beginners/static/js/main.d530b82c.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.d530b82c.js.map": "/react-for-beginners/static/js/main.d530b82c.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f70b8e4.js"
+    "static/js/main.d530b82c.js"
   ]
 }
